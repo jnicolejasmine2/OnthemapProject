@@ -2,8 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbauth2</string>
+	</array>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb365362206864879</string>
+				<string>fb365362206864879onthemap</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+	<key>FacebookUrlSchemeSuffix</key>
+	<string>onthemap</string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>FacebookDisplayName</key>
+	<string>Udacity</string>
+	<key>FacebookAppID</key>
+	<string>365362206864879</string>
+	<key>CFBundleDisplayName</key>
+	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
